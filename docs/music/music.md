@@ -7,7 +7,7 @@ Don't rely on this as there's always bugs with this.
 #
 
 | Name | Description | Usage | Aliases |
-| :--- | :--- | :--- | :---
+| :--- | :--- | :--- | :--- |
 | join | Make me join in a VC | `/join`
 | summon | Summon me in a VC | `/summon [channel]`
 | leave | Make me leave a VC | `/leave`
